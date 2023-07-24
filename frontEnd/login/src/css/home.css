@@ -1,0 +1,37 @@
+.lefthome img{
+    width: 700px;
+    height: 500px;
+}
+.main{
+    width: 1050px;
+    transform: translate(80px);
+}
+.lefthome{
+    width: 800px;
+}
+.main{
+    display:flex;
+}
+.righthome{
+    background-color: yellow;
+    width: 450px;
+    
+}
+.contents{
+    width: 260px;
+    margin-top: 80px;
+    transform: translate(50px);
+    
+}
+.line{
+    height: 5px;
+    width: 260px;
+    background-color: black;
+    margin: 20px 0px;
+}
+.righthome button{
+    height: 40px;
+    width: 140px;
+    background-color: black;
+    color: white;
+}
